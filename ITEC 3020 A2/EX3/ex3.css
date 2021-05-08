@@ -1,0 +1,44 @@
+#container{
+	background-color: #ffffcc;
+	padding-bottom: 75px;
+	border-style: solid;
+	border-radius: 10px;
+	background-image: url("ex3_background.jpg");
+}
+
+#text{
+	padding-bottom: 75px;
+	padding-top: 50px;
+	font-family: Calibri Light;
+	font-size: 45px;
+	text-shadow: 3px 7px 6px grey;
+}
+
+input[type = text]{
+	height: 75px;
+	width: 200px;
+	font-size: 70px;
+	font-family: Calibri Light;
+	text-align: center;
+}
+
+input[type = button]{
+	background-color: #b3b300;
+	color: white;
+	border: 0px solid #000000;
+	border-radius: 0px;
+	font-size: 30px;
+	padding: 12px 42px;
+	text-align: center;
+	font-family: Calibri Light;
+}
+
+#submit{
+	padding-top: 75px;
+}
+
+#result{
+	font-family: Calibri Light;
+	font-size: 45px;
+	padding-top: 45px;
+}

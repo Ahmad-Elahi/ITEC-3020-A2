@@ -1,0 +1,10 @@
+input[type = button]{
+	background-color: #1a1aff;
+	color: white;
+	border: 0px solid #000000;
+	border-radius: 0px;
+	font-size: 30px;
+	padding: 12px 42px;
+	text-align: center;
+	font-family: Calibri Light;
+}
